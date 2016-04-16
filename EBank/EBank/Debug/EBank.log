@@ -1,0 +1,16 @@
+﻿  EBank.cpp
+  Generating Code...
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebank.cpp(186): warning C4717: 'mainMenu': recursive on all control paths, function will cause runtime stack overflow
+  Compiling...
+  EBankController.cpp
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(307): warning C4018: '<': signed/unsigned mismatch
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(309): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\faraz\documents\visual studio 2015\projects\ebank\ebank\ebankcontroller.cpp(330): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  EBank.vcxproj -> C:\Users\faraz\Documents\Visual Studio 2015\Projects\EBank\Debug\EBank.exe
